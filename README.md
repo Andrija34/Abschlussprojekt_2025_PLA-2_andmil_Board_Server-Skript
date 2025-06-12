@@ -26,7 +26,7 @@ Dieses Projekt automatisiert die vollständige Einrichtung eines Windows-Servers
      ```powershell
      Set-ExecutionPolicy RemoteSigned -Scope Process -Force
      ```
-
+     
 2. **Skript starten:**
    - Lade das Skript herunter und führe es in PowerShell aus:
      ```powershell
