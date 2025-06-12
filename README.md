@@ -1,4 +1,5 @@
 #Abschlussprojekt Serverskript
+
 Dieses Projekt automatisiert die vollständige Einrichtung eines Windows-Servers für ein kleines oder mittleres Unternehmen (KMU) mithilfe eines PowerShell-Skripts. Das Skript richtet alle wesentlichen Dienste wie Active Directory, DHCP, DNS, File Services und Gruppenrichtlinien ein, damit der Server schnell und zuverlässig im Netzwerk arbeiten kann.
 
 Projektziele
