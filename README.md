@@ -30,7 +30,7 @@ Dieses Projekt automatisiert die vollständige Einrichtung eines Windows-Servers
 2. **Skript starten:**
    - Lade das Skript herunter und führe es in PowerShell aus:
      ```powershell
-     .\setup.ps1
+     .\kmu-setup.ps1
      ```
 
 3. **Automatische Ausführung:**
@@ -39,6 +39,6 @@ Dieses Projekt automatisiert die vollständige Einrichtung eines Windows-Servers
 ## Struktur
 
 ```text
-setup.ps1               # Hauptskript für die Servereinrichtung
-docs/                   # Dokumentation und Screenshots
-└── Präsentation.pptx   # Präsentation für das Projekt
+kmu-setup.ps1          # Hauptskript für die Servereinrichtung
+Dokumentation          # Dokumentation und Screenshots
+Präsentation.pptx      # Präsentation für das Projekt
