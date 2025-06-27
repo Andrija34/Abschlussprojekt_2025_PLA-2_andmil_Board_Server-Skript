@@ -1,8 +1,9 @@
 
 # ================================
 # KMU Setup-Skript für Windows Server
-# Erstellt von: my big sexy latino andrija ayri
+# Erstellt von: Andrija
 # Funktion: Vollautomatischer Aufbau einer AD-Domäne mit Benutzer, Gruppen, Laufwerken, GPOs und NTFS-Rechten
+#Version: 1.0
 # ================================
 
 # ------- KONFIGURATION -------
